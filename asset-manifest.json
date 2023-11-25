@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/financeapp/static/js/main.cd671921.js",
+    "static/media/nodata.png": "/financeapp/static/media/nodata.9565f047d436bd6b30b0.png",
+    "index.html": "/financeapp/index.html",
+    "main.cd671921.js.map": "/financeapp/static/js/main.cd671921.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd671921.js"
+  ]
+}
